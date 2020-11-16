@@ -1,2 +1,2 @@
-# Detector
-It detects the collision when you touch the rectangles and changes the colour.
+# p5.play-boilerplate
+Boiler plate for p5.play
